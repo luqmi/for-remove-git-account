@@ -1,0 +1,10 @@
+step 1 => git config --list (we confirm that account is my login or not)
+step 2 => git config --global user.name "luqmankhan" (when we confirm that i run the account)
+step 3 => git config --global user.email "luqmankhansuffah789@gmail.com"
+
+
+ =======(when we remove the account of git by controlpanel)========
+1) Goto controlpanel
+2) cretential manager
+3) Goto windows cretential
+4) at the end we remove our account of git
